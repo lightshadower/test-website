@@ -1,5 +1,6 @@
 body {
   background-color: #ecf4f3;
+  font-family: font-family: 'Poiret One', cursive;
 }
 
 hr {
@@ -12,8 +13,10 @@ hr {
 
 h1 {
   color: #2ec1ac;
+  font-family: 'Satisfy', cursive;
 }
 
 h3 {
   color: #66bfbf;
+  font-family: 'Amatic SC', cursive;
 }
